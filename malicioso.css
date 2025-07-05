@@ -1,0 +1,8 @@
+body::before {
+  content: "⚠️ Este portal ha sido alterado para la PoC";
+  display: block;
+  font-size: 24px;
+  background: black;
+  color: red;
+  padding: 20px;
+}
